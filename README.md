@@ -7,8 +7,8 @@ Full Stack Developer (Laravel + Vue 🔥)
 7+ years in the software industry. Every day working with same tech stack \[ Laravel + VueJs 3 + InertiaJs + Tailwind CSS \].
 
 * 🌍  I'm based in Mumbai, India
-* 🖥️  See my portfolio at [Swapneal](http://swapneal.co.in)
-* ✉️  You can contact me at [swapnil.sargar@swapneal.co.in](mailto:swapnil.sargar@swapneal.co.in)
+* 🖥️  See my portfolio at [Nilede Technologies](http://nilede.tech)
+* ✉️  You can contact me at [swapnil@nilede.tech](mailto:swapnil@nilede.tech)
 * 🚀  I'm currently working on [Liplick Pizzeria](http://liplickpizzeria.com)
 * 🧠  I'm learning web 3
 
