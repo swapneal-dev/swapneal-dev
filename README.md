@@ -1,16 +1,26 @@
-Hi 👋 My name is Swapnil Sargar
+Hi 👋 I am Swapnil Sargar
 ===============================
 
 Full Stack Developer (Laravel + Vue 🔥)
 ---------------------------------------
 
-7+ years in the software industry. Every day working with same tech stack \[ Laravel + VueJs 3 + InertiaJs + Tailwind CSS \].
+I consult and partner with SaaS startup founders to help them build their new or existing products, apps, and websites.
 
-* 🌍  I'm based in Mumbai, India
-* 🖥️  See my portfolio at [Nilede Technologies](http://nilede.tech)
-* ✉️  You can contact me at [swapnil@nilede.tech](mailto:swapnil@nilede.tech)
-* 🚀  I'm currently working on [Liplick Pizzeria](http://liplickpizzeria.com)
-* 🧠  I'm learning web 3
+With my 7+ years of industry experience, I do research, plan & implement their ideas in real-world applications. I help them execute from Ideas to Deployment with staff hiring, augmentation, interviews, and mentoring their existing team. 
+
+Here is our tech stack:<br>
+* Laravel PHP, Inertia JS<br>
+* Vue JS, React Js, Ionic Framework<br>
+* React Native, Next JS, Nuxt JS<br>
+* UI/UX Design(Only on Figma)<br>
+* HTML, CSS template dev with tailwind CSS, bootstrap.
+
+More about me:
+* 🌍  I'm based in Mumbai, India
+* 🖥️  See my portfolio at [Swapneal](http://swapneal.dev)
+* ✉️  You can contact me at [swapnil@nilede.tech](mailto:swapnil@nilede.tech)
+* 🚀  I'm currently working on [nilede tech](http://nilede.tech)
+* 🧠  I'm learning open source contribution
 
 <a href="https://www.twitter.com/swapneal_sargar" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/swapneal_sargar?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
