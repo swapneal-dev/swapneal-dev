@@ -19,7 +19,7 @@ More about me:
 * 🌍  I'm based in Mumbai, India
 * 🖥️  See my portfolio at [Nilede](https://nilede.tech)
 * ✉️  You can contact me at [swapnil@nilede.tech](mailto:swapnil@nilede.tech)
-* 🚀  I'm currently working on [what's your next blog]([http://nilede.tech](https://whats-your-next-blog.swapneal.dev/))
+* 🚀  I'm currently working on [what's your next blog](https://whats-your-next-blog.swapneal.dev)
 * 🧠  I'm learning open source contribution
 
 <a href="https://www.twitter.com/swapneal_sargar" target="_blank" rel="noreferrer"><img
